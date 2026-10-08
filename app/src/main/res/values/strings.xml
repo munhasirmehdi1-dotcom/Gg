@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jacquard Studio</string>
+    <string name="tagline">Convert Any Sketch to Jacquard BMP Design</string>
+    <string name="hindi_tagline">स्केच को जैकवार्ड BMP डिज़ाइन में बदलें</string>
+    <string name="upload_sketch">Upload Sketch</string>
+    <string name="sample_motifs">Sample Motifs</string>
+    <string name="draw_sketch">Draw Sketch</string>
+    <string name="hooks_warp">Hooks (Warp / ताना)</string>
+    <string name="picks_weft">Picks (Weft / बाना)</string>
+    <string name="colors_palette">Color Palette (रंग)</string>
+    <string name="export_bmp">Export BMP File</string>
+    <string name="share_whatsapp">Share on WhatsApp</string>
+    <string name="share_preview">Share Image Preview</string>
+</resources>

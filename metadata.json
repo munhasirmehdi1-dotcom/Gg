@@ -1,0 +1,6 @@
+{
+  "name": "Jacquard Studio",
+  "description": "Convert sketches and images to Jacquard textile design BMP files with custom dimensions, color quantization, weave patterns, and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
